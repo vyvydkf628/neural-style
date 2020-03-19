@@ -1,3 +1,10 @@
+```
+luarocks install nn
+-gpu -1
+luarocks install image
+```
+
+
 # neural-style
 
 This is a torch implementation of the paper [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)
